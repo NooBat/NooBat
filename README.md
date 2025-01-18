@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 💬 Ask Me About
 - Web Development
 - Open Source Contributions
-- [Another area of expertise]
 
 ## 📫 How to Reach Me
 - Email: [khoi27012003@gmail.com](mailto:khoi27012003@gmail.com)
@@ -25,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
   - Collaborate with cross-functional teams to deliver internal products.
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: C++, TypeScript, Python
-- Frameworks & Libraries: React, NestJS, ExpressJS, GraphQL
-- Tools & Platforms: Apollo GraphQL
+- Programming Languages: C++, TypeScript, Python.
+- Frameworks & Libraries: React, NestJS, ExpressJS, GraphQL.
+- Tools & Platforms: Apollo GraphQL.
 
 ## 📈 GitHub Stats
 ![NooBat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NooBat&show_icons=true&theme=radical)
