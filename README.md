@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 -->
 
 ## 🌱 What I'm Learning
-- Currently diving into [React].
+- Currently deep-diving into `React`.
 
 ## 💬 Ask Me About
 - Web Development
